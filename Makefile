@@ -1,4 +1,4 @@
-FILES_RT = RT.cpp
+FILES_RT = RT.cpp Math.cpp
 
 build : rt run
 
